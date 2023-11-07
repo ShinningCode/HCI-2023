@@ -1,0 +1,815 @@
+<mxfile host="app.diagrams.net" modified="2023-11-07T18:03:41.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xNwK-Vb_DcQbALq84tQ0" version="22.0.8" type="device" pages="3">
+  <diagram name="diagrama de Gantt" id="8378b5f6-a2b2-b727-a746-972ab9d02e00">
+    <mxGraphModel dx="993" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="63" value="1" style="strokeColor=#DEEDFF;fillColor=#ADC3D9" parent="1" vertex="1">
+          <mxGeometry x="86.5" y="380" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="64" value="Tesis" style="align=left;strokeColor=#DEEDFF;fillColor=#ADC3D9" parent="1" vertex="1">
+          <mxGeometry x="126.5" y="380" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="65" value="0" style="strokeColor=#DEEDFF;fillColor=#ADC3D9" parent="1" vertex="1">
+          <mxGeometry x="446.50000000000176" y="380" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="66" value="16.04.12" style="strokeColor=#DEEDFF;fillColor=#ADC3D9" parent="1" vertex="1">
+          <mxGeometry x="526.500000000002" y="380" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="67" value="1.06.12" style="strokeColor=#DEEDFF;fillColor=#ADC3D9" parent="1" vertex="1">
+          <mxGeometry x="606.5000000000016" y="380.0000000000002" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="68" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="686.5" y="380" width="20" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="69" value="2" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
+          <mxGeometry x="86.50000000000026" y="399.9999999999999" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="70" value="Revisión de Literatura" style="align=left;strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
+          <mxGeometry x="126.50000000000026" y="399.9999999999999" width="319.9999999999998" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="71" value="14 days" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
+          <mxGeometry x="446.500000000002" y="399.99999999999983" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="72" value="16.04.12" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
+          <mxGeometry x="526.5000000000023" y="399.99999999999983" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="73" value="27.10.23" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
+          <mxGeometry x="606.5000000000018" y="400.0000000000001" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="74" value="3" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="86.50000000000027" y="419.9999999999998" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="75" value="Buscar información" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="126.50000000000027" y="419.9999999999998" width="319.9999999999997" height="20.000000000000014" as="geometry" />
+        </mxCell>
+        <mxCell id="76" value="1 day" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="446.500000000002" y="419.9999999999997" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="77" value="16.04.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="526.5000000000023" y="419.9999999999997" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="78" value="16.04.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="606.5000000000018" y="420" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="79" value="4" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="86.5" y="440.00000000000017" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="80" value="Introducción y justificación" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="126.5" y="440.00000000000017" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="81" value="2 days" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="446.5000000000017" y="440.0000000000001" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="82" value="17.04.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="526.500000000002" y="440.0000000000001" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="83" value="18.04.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="606.5000000000015" y="440.0000000000004" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="84" value="5" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="86.49999999999991" y="460.00000000000017" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="85" value="Objetivos, hipótesis y metodología" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="126.49999999999991" y="460.00000000000017" width="320.0000000000001" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="86" value="1 day" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="446.50000000000165" y="460.0000000000001" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="87" value="19.04.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="526.5000000000019" y="460.0000000000001" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="88" value="19.04.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="606.5000000000015" y="460.0000000000004" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="89" value="6" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="86.4999999999999" y="480.00000000000045" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="90" value="Recursos y plan de trabajo" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="126.4999999999999" y="480.00000000000045" width="320.0000000000001" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="91" value="3 days" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="446.50000000000165" y="480.00000000000034" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="92" value="20.04.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="526.5000000000019" y="480.00000000000034" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="93" value="24.04.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="606.5000000000015" y="480.0000000000007" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="94" value="7" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="86.50000000000063" y="500.0000000000007" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="95" value="TRABAJO FINAL: protocolo completo" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="126.50000000000063" y="500.0000000000007" width="319.9999999999994" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="96" value="27 days" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="446.5000000000024" y="500.0000000000007" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="97" value="25.04.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="526.5000000000027" y="500.0000000000007" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="98" value="31.05.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="606.5000000000022" y="500.0000000000009" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="104" value="9" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
+          <mxGeometry x="86.50000000000037" y="520.000000000001" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="105" value="Estudio de Casos" style="align=left;strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
+          <mxGeometry x="126.50000000000037" y="520.000000000001" width="319.99999999999966" height="20.00000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="106" value="20 days" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
+          <mxGeometry x="446.5000000000021" y="520.0000000000009" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="107" value="24.04.12" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
+          <mxGeometry x="526.5000000000025" y="520.0000000000009" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="108" value="21.05.12" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
+          <mxGeometry x="606.5000000000018" y="520.0000000000013" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="109" value="10" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="86.50000000000028" y="540.000000000001" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="110" value="Desarrollo de Preguntas Clave" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="126.50000000000028" y="540.000000000001" width="319.9999999999997" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="111" value="2 days" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="446.50000000000205" y="540.0000000000009" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="112" value="24.04.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="526.5000000000023" y="540.0000000000009" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="113" value="25.04.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="606.5000000000018" y="540.0000000000013" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="114" value="11" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="86.50000000000027" y="560.0000000000013" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="115" value="Desarrollo de Encuestas" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="126.50000000000027" y="560.0000000000013" width="319.9999999999997" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="116" value="2 days" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="446.50000000000205" y="560.0000000000011" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="117" value="26.04.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="526.5000000000023" y="560.0000000000011" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="118" value="27.04.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="606.5000000000018" y="560.0000000000015" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="119" value="12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="86.49999999999997" y="580.0000000000016" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="120" value="Mounting equipment" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="126.49999999999997" y="580.0000000000016" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="121" value="3 days" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="446.5000000000017" y="580.0000000000015" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="122" value="30.04.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="526.500000000002" y="580.0000000000015" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="123" value="2.05.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="606.5000000000015" y="580.0000000000018" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="124" value="13" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="86.49999999999999" y="600.0000000000014" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="125" value="Wiring" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="126.49999999999999" y="600.0000000000014" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="126" value="10 days" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="446.5000000000017" y="600.0000000000014" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="127" value="3.05.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="526.500000000002" y="600.0000000000014" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="128" value="16.05.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="606.5000000000015" y="600.0000000000016" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="129" value="14" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="86.49999999999972" y="620.0000000000018" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="130" value="Testing" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="126.49999999999972" y="620.0000000000018" width="320.0000000000003" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="131" value="2 days" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="446.5000000000014" y="620.0000000000018" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="132" value="17.05.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="526.5000000000018" y="620.0000000000018" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="133" value="18.05.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="606.5000000000011" y="620.000000000002" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="134" value="15" style="strokeColor=#DEEDFF;fillColor=#FFFFFF" parent="1" vertex="1">
+          <mxGeometry x="86.49999999999963" y="640.0000000000018" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="135" value="Packaging" style="align=left;strokeColor=#DEEDFF;fillColor=#FFFFFF" parent="1" vertex="1">
+          <mxGeometry x="126.49999999999963" y="640.0000000000018" width="320.00000000000034" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="136" value="1 day" style="strokeColor=#DEEDFF;fillColor=#FFFFFF" parent="1" vertex="1">
+          <mxGeometry x="446.50000000000136" y="640.0000000000018" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="137" value="21.05.12" style="strokeColor=#DEEDFF;fillColor=#FFFFFF" parent="1" vertex="1">
+          <mxGeometry x="526.5000000000016" y="640.0000000000018" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="138" value="21.05.12" style="strokeColor=#DEEDFF;fillColor=#FFFFFF" parent="1" vertex="1">
+          <mxGeometry x="606.5000000000011" y="640.000000000002" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="139" value="16" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
+          <mxGeometry x="86.49999999999962" y="660.000000000002" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="140" value="Evaluación cuantitativa y cualitativa" style="align=left;strokeColor=#DEEDFF;fillColor=#cce5ff;" parent="1" vertex="1">
+          <mxGeometry x="126.49999999999962" y="660.000000000002" width="320.0000000000004" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="141" value="31 days" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
+          <mxGeometry x="446.50000000000136" y="660.000000000002" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="142" value="19.04.12" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
+          <mxGeometry x="526.5000000000016" y="660.000000000002" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="143" value="31.05.12" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
+          <mxGeometry x="606.5000000000011" y="660.0000000000023" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="144" value="17" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="86.500000000001" y="680.0000000000023" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="145" value="Desarrollo de Encuestas" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="126.500000000001" y="680.0000000000023" width="319.999999999999" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="146" value="7 days" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="446.50000000000273" y="680.0000000000023" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="147" value="19.04.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="526.500000000003" y="680.0000000000023" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="148" value="27.04.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="606.5000000000025" y="680.0000000000025" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="149" value="18" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="86.50000000000102" y="700.0000000000022" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="150" value="Evaluación de Resultados" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="126.50000000000102" y="700.0000000000022" width="319.999999999999" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="151" value="4 days" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="446.50000000000273" y="700.000000000002" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="152" value="30.04.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="526.500000000003" y="700.000000000002" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="153" value="3.05.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="606.5000000000025" y="700.0000000000024" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="154" value="19" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="86.50000000000074" y="720.0000000000025" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="155" value="Conclusiones en base a resultados" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="126.50000000000074" y="720.0000000000025" width="319.99999999999926" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="156" value="13 days" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="446.50000000000244" y="720.0000000000025" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="157" value="4.05.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="526.5000000000027" y="720.0000000000025" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="158" value="22.05.12" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="606.5000000000023" y="720.0000000000027" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="174" value="23" style="strokeColor=#DEEDFF;fillColor=#cce5ff;" parent="1" vertex="1">
+          <mxGeometry x="86.50000000000139" y="740.000000000003" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="175" value="Propuesta de Recomendaciones" style="align=left;strokeColor=#DEEDFF;fillColor=#cce5ff;" parent="1" vertex="1">
+          <mxGeometry x="126.50000000000139" y="740.000000000003" width="319.99999999999864" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="176" value="" style="strokeColor=#DEEDFF;fillColor=#cce5ff;" parent="1" vertex="1">
+          <mxGeometry x="446.5000000000031" y="740.000000000003" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="177" value="" style="strokeColor=#DEEDFF;fillColor=#cce5ff;" parent="1" vertex="1">
+          <mxGeometry x="526.5000000000034" y="740.000000000003" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="178" value="" style="strokeColor=#DEEDFF;fillColor=#cce5ff;" parent="1" vertex="1">
+          <mxGeometry x="606.500000000003" y="740.0000000000032" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="179" value="24" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="86.50000000000111" y="760.0000000000034" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="180" value="Desarrollo de modelo" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="126.50000000000111" y="760.0000000000034" width="319.99999999999886" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="181" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="446.50000000000284" y="760.0000000000033" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="182" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="526.5000000000032" y="760.0000000000033" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="183" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="606.5000000000026" y="760.0000000000036" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="184" value="25" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="86.50000000000102" y="780.0000000000034" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="185" value="Entrenamiento de Modelo en Base a Resultados" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="126.50000000000102" y="780.0000000000034" width="319.999999999999" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="186" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="446.5000000000028" y="780.0000000000033" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="187" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="526.5000000000031" y="780.0000000000033" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="188" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="606.5000000000026" y="780.0000000000036" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="189" value="26" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="86.50000000000102" y="800.0000000000036" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="190" value="Propuesta Final" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="126.500000000001" y="800.0000000000036" width="319.999999999999" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="191" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="446.5000000000028" y="800.0000000000035" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="192" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="526.5000000000031" y="800.0000000000035" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="193" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="606.5000000000026" y="800.0000000000039" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="194" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="706.5" y="380" width="20" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="195" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="726.5" y="380" width="20" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="196" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="746.5" y="380" width="20" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="197" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="766.5" y="380" width="20" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="198" value="" style="strokeColor=#DEEDFF;fillColor=#D4E1FF" parent="1" vertex="1">
+          <mxGeometry x="786.5" y="380" width="20" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="199" value="" style="strokeColor=#DEEDFF;fillColor=#D4E1FF" parent="1" vertex="1">
+          <mxGeometry x="806.5" y="380" width="20" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="200" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="826.5" y="380" width="20" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="201" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="846.5" y="380" width="20" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="202" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="866.5" y="380" width="20" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="203" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="886.5" y="380" width="20" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="204" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="906.5" y="380" width="20" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="205" value="" style="strokeColor=#DEEDFF;fillColor=#D4E1FF" parent="1" vertex="1">
+          <mxGeometry x="926.5" y="380" width="20" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="206" value="" style="strokeColor=#DEEDFF;fillColor=#D4E1FF" parent="1" vertex="1">
+          <mxGeometry x="946.5" y="380" width="20" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="207" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="966.5000000000018" y="380.0000000000148" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="208" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="986.5000000000018" y="380.0000000000148" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="209" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="1006.5000000000018" y="380.0000000000002" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="210" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="1026.5000000000018" y="380.00000000000387" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="211" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="1046.5000000000018" y="380.00000000000387" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="212" value="" style="strokeColor=#DEEDFF;fillColor=#D4E1FF" parent="1" vertex="1">
+          <mxGeometry x="1066.5000000000018" y="380.00000000000387" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="213" value="" style="strokeColor=#DEEDFF;fillColor=#D4E1FF" parent="1" vertex="1">
+          <mxGeometry x="1086.5000000000018" y="380.0000000000148" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="214" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="1106.5000000000018" y="380.0000000000184" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="215" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="1126.5000000000018" y="380.0000000000184" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="216" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="1146.5000000000018" y="380.0000000000184" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="217" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="1166.500000000002" y="380.0000000000184" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="218" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="1186.500000000002" y="380.00000000002206" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="219" value="" style="strokeColor=#DEEDFF;fillColor=#D4E1FF" parent="1" vertex="1">
+          <mxGeometry x="1206.500000000002" y="380.00000000002206" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="220" value="" style="strokeColor=#DEEDFF;fillColor=#D4E1FF" parent="1" vertex="1">
+          <mxGeometry x="1226.500000000002" y="380.00000000002206" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="221" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="1246.500000000002" y="380.00000000002206" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="222" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="1266.500000000002" y="380.0000000000257" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="223" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="1286.500000000002" y="380.0000000000257" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="224" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="1306.500000000002" y="380.0000000000257" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="225" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="1326.5000000000016" y="380.0000000000257" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="226" value="" style="strokeColor=#DEEDFF;fillColor=#D4E1FF" parent="1" vertex="1">
+          <mxGeometry x="1346.5000000000016" y="380.00000000002933" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="227" value="" style="strokeColor=#DEEDFF;fillColor=#D4E1FF" parent="1" vertex="1">
+          <mxGeometry x="1366.5000000000016" y="380.00000000002933" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="228" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="1386.5000000000016" y="380.00000000002933" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="229" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="1406.5000000000016" y="380.00000000002933" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="230" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="1426.5000000000016" y="380.00000000003297" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="231" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="1446.5000000000016" y="380.00000000003297" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="232" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="1466.5000000000016" y="380.00000000003297" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="233" value="" style="strokeColor=#DEEDFF;fillColor=#D4E1FF" parent="1" vertex="1">
+          <mxGeometry x="1486.5000000000016" y="380.0000000000184" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="234" value="" style="strokeColor=#DEEDFF;fillColor=#D4E1FF" parent="1" vertex="1">
+          <mxGeometry x="1506.5000000000016" y="380.00000000002206" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="235" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="1526.5000000000016" y="380.00000000002206" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="236" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="1546.5000000000016" y="380.00000000002206" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="237" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="1566.5000000000016" y="380.00000000003297" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="238" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="1586.5000000000016" y="380.0000000000366" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="239" value="" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+          <mxGeometry x="1606.5000000000016" y="380.0000000000366" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="240" value="" style="strokeColor=#DEEDFF;fillColor=#D4E1FF" parent="1" vertex="1">
+          <mxGeometry x="1626.5000000000016" y="380.0000000000366" width="20" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="241" value="" style="strokeColor=#DEEDFF;fillColor=#D4E1FF" parent="1" vertex="1">
+          <mxGeometry x="1646.5" y="380" width="20" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="2" value="Task Name" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="126.5" y="340" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="86.5" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="16 Apr 12" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="686.5000000000018" y="340.0000000000001" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="M" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="686.5000000000018" y="360.0000000000001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="T" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="706.5000000000018" y="360.0000000000001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="W" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="726.5000000000018" y="360.0000000000001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="T" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="746.5000000000018" y="360.0000000000001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="F" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="766.5000000000016" y="360.0000000000001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="S" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="786.5000000000016" y="360.0000000000001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="S" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="806.5000000000016" y="360.0000000000001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Duration" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="446.50000000000176" y="340.00000000000006" width="80.00000000000006" height="40.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Start" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="526.5000000000018" y="340.00000000000006" width="80.00000000000006" height="40.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="ETA" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="606.5000000000019" y="340.0000000000001" width="80.00000000000006" height="40.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="23 Apr 12" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="826.5000000000018" y="340.0000000000001" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="M" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="826.5000000000018" y="360.0000000000001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="T" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="846.5000000000018" y="360.0000000000001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="W" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="866.5000000000018" y="360.0000000000001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="T" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="886.5000000000018" y="360.0000000000001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="F" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="906.5000000000016" y="360.0000000000001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="S" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="926.5000000000016" y="360.0000000000001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="S" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="946.5000000000016" y="360.0000000000001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="30 Apr 12" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="966.5000000000018" y="340.00000000000006" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="M" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="966.5000000000018" y="360.00000000000006" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="T" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="986.5000000000018" y="360.00000000000006" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="W" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1006.5000000000018" y="360.00000000000006" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="T" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1026.5000000000018" y="360.00000000000006" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="F" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1046.5000000000016" y="360.00000000000006" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="S" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1066.5000000000016" y="360.00000000000006" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="S" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1086.5000000000016" y="360.00000000000006" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="7 May 12" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1106.5000000000018" y="340.00000000000006" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="32" value="M" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1106.5000000000018" y="360.00000000000006" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="33" value="T" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1126.5000000000018" y="360.00000000000006" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="34" value="W" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1146.5000000000018" y="360.00000000000006" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="35" value="T" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1166.5000000000018" y="360.00000000000006" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="36" value="F" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1186.5000000000016" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="37" value="S" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1206.5000000000016" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="38" value="S" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1226.5000000000016" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="39" value="14 May 12" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1246.5000000000018" y="340.00000000000006" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="40" value="M" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1246.5000000000018" y="360.00000000000006" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="41" value="T" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1266.5000000000018" y="360.00000000000006" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="42" value="W" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1286.5000000000018" y="360.00000000000006" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="43" value="T" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1306.5000000000018" y="360.00000000000006" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44" value="F" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1326.5000000000016" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="45" value="S" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1346.5000000000016" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="46" value="S" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1366.5000000000016" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="47" value="21 May 12" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1386.5000000000018" y="340" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="48" value="M" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1386.5000000000018" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="49" value="T" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1406.5000000000018" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="50" value="W" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1426.5000000000018" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="51" value="T" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1446.5000000000018" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="52" value="F" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1466.5000000000016" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="53" value="S" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1486.5000000000016" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="54" value="S" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1506.5000000000016" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="55" value="28 May 12" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1526.5000000000018" y="340.0000000000001" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="56" value="M" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1526.5000000000018" y="360.0000000000001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="57" value="T" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1546.5000000000018" y="360.0000000000001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="58" value="W" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1566.5000000000018" y="360.0000000000001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="59" value="T" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1586.5000000000018" y="360.0000000000001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="60" value="F" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1606.5000000000016" y="360.0000000000001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="61" value="S" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1626.5000000000016" y="360.0000000000001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="62" value="S" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1646.5000000000016" y="360.0000000000001" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="242" value="" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=#000000;strokeWidth=2;opacity=50" parent="1" vertex="1">
+          <mxGeometry x="686.5" y="400" width="243.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="243" value="" style="shape=mxgraph.arrows.bent_right_arrow;fillColor=#AE4132;strokeColor=none;strokeWidth=2;direction=south" parent="1" vertex="1">
+          <mxGeometry x="706.500000000002" y="429.99999999999966" width="10.000000000000341" height="9.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="244" value="" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" parent="1" vertex="1">
+          <mxGeometry x="686.5000000000032" y="419.9999999999997" width="19.999999999998863" height="19.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="245" value="" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" parent="1" vertex="1">
+          <mxGeometry x="706.5000000000018" y="440.00000000000057" width="40.00000000000023" height="19.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="246" value="" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" parent="1" vertex="1">
+          <mxGeometry x="746.5000000000018" y="460.00000000000085" width="19.999999999998863" height="19.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="247" value="" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" parent="1" vertex="1">
+          <mxGeometry x="866.5000000000016" y="500.0000000000016" width="739.9999999999995" height="19.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="248" value="" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" parent="1" vertex="1">
+          <mxGeometry x="1606.5000000000032" y="520.0000000000014" width="19.999999999998863" height="19.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="249" value="" style="shape=mxgraph.arrows.bent_right_arrow;fillColor=#AE4132;strokeColor=none;strokeWidth=2;direction=south" parent="1" vertex="1">
+          <mxGeometry x="746.500000000001" y="449.99999999999943" width="10.000000000000341" height="9.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="250" value="" style="shape=mxgraph.arrows.bent_right_arrow;fillColor=#AE4132;strokeColor=none;strokeWidth=2;direction=south" parent="1" vertex="1">
+          <mxGeometry x="766.5000000000007" y="470.0000000000001" width="10.000000000000341" height="9.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="251" value="" style="shape=mxgraph.arrows.bent_right_arrow;fillColor=#AE4132;strokeColor=none;strokeWidth=2;direction=south" parent="1" vertex="1">
+          <mxGeometry x="1606.500000000002" y="510.0000000000016" width="10.000000000000341" height="9.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="252" value="" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" parent="1" vertex="1">
+          <mxGeometry x="766.5000000000019" y="479.9999999999999" width="100.00000000000011" height="19.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="253" value="" style="shape=mxgraph.arrows.bent_right_arrow;fillColor=#AE4132;strokeColor=none;strokeWidth=2;direction=south" parent="1" vertex="1">
+          <mxGeometry x="866.500000000002" y="489.99999999999983" width="10.000000000000341" height="9.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="254" value="" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=#000000;strokeWidth=2;opacity=100" parent="1" vertex="1">
+          <mxGeometry x="686.500000000001" y="380" width="940.0000000000006" height="19.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="255" value="" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" parent="1" vertex="1">
+          <mxGeometry x="846.5" y="560.0000000000016" width="40" height="19.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="256" value="" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=#000000;strokeWidth=2;opacity=50" parent="1" vertex="1">
+          <mxGeometry x="846.5" y="540.0000000000006" width="560" height="19.9999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="257" value="" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" parent="1" vertex="1">
+          <mxGeometry x="886.4999999999999" y="580.0000000000019" width="80.00000000000011" height="19.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="258" value="" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" parent="1" vertex="1">
+          <mxGeometry x="966.4999999999999" y="600.0000000000011" width="60.000000000000114" height="19.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="259" value="" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" parent="1" vertex="1">
+          <mxGeometry x="1026.5000000000018" y="620.0000000000005" width="279.99999999999807" height="19.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="260" value="" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" parent="1" vertex="1">
+          <mxGeometry x="1306.500000000002" y="640.0000000000002" width="79.99999999999795" height="19.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="261" value="" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" parent="1" vertex="1">
+          <mxGeometry x="1386.5000000000039" y="660.0000000000001" width="19.999999999996135" height="19.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="262" value="" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" parent="1" vertex="1">
+          <mxGeometry x="746.5000000000022" y="700.000000000002" width="219.99999999999784" height="19.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="263" value="" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" parent="1" vertex="1">
+          <mxGeometry x="966.5000000000017" y="720.0000000000018" width="79.9999999999983" height="19.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="264" value="" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" parent="1" vertex="1">
+          <mxGeometry x="1046.5000000000036" y="740.0000000000016" width="379.9999999999965" height="19.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="265" value="" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" parent="1" vertex="1">
+          <mxGeometry x="1426.5000000000034" y="760.0000000000014" width="19.99999999999659" height="19.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="266" value="" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" parent="1" vertex="1">
+          <mxGeometry x="1446.5000000000052" y="780.0000000000035" width="119.99999999999477" height="19.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="267" value="" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" parent="1" vertex="1">
+          <mxGeometry x="1566.5" y="800.0000000000011" width="40" height="19.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="268" value="" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=#000000;strokeWidth=2;opacity=50" parent="1" vertex="1">
+          <mxGeometry x="746.5" y="680.0000000000027" width="860" height="19.999999999999773" as="geometry" />
+        </mxCell>
+        <mxCell id="269" value="" style="shape=mxgraph.arrows.bent_right_arrow;fillColor=#AE4132;strokeColor=none;strokeWidth=2;direction=south" parent="1" vertex="1">
+          <mxGeometry x="886.5000000000024" y="570.000000000002" width="10.000000000000341" height="9.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="270" value="" style="shape=mxgraph.arrows.bent_right_arrow;fillColor=#AE4132;strokeColor=none;strokeWidth=2;direction=south" parent="1" vertex="1">
+          <mxGeometry x="966.4999999999998" y="590.0000000000019" width="10.000000000000341" height="9.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="271" value="" style="shape=mxgraph.arrows.bent_right_arrow;fillColor=#AE4132;strokeColor=none;strokeWidth=2;direction=south" parent="1" vertex="1">
+          <mxGeometry x="1026.5" y="610.0000000000019" width="10.000000000000341" height="9.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="272" value="" style="shape=mxgraph.arrows.bent_right_arrow;fillColor=#AE4132;strokeColor=none;strokeWidth=2;direction=south" parent="1" vertex="1">
+          <mxGeometry x="1306.5" y="630.0000000000368" width="10.000000000000341" height="9.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="273" value="" style="shape=mxgraph.arrows.bent_right_arrow;fillColor=#AE4132;strokeColor=none;strokeWidth=2;direction=south" parent="1" vertex="1">
+          <mxGeometry x="1386.5" y="650.0000000000023" width="10.000000000000341" height="9.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="274" value="" style="shape=mxgraph.arrows.bent_right_arrow;fillColor=#AE4132;strokeColor=none;strokeWidth=2;direction=south" parent="1" vertex="1">
+          <mxGeometry x="966.5000000000018" y="710.0000000000027" width="10.000000000000341" height="9.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="275" value="" style="shape=mxgraph.arrows.bent_right_arrow;fillColor=#AE4132;strokeColor=none;strokeWidth=2;direction=south" parent="1" vertex="1">
+          <mxGeometry x="1046.5000000000036" y="730.000000000003" width="10.000000000000341" height="9.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="276" value="" style="shape=mxgraph.arrows.bent_right_arrow;fillColor=#AE4132;strokeColor=none;strokeWidth=2;direction=south" parent="1" vertex="1">
+          <mxGeometry x="1426.5000000000036" y="750.000000000003" width="10.000000000000341" height="9.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="277" value="" style="shape=mxgraph.arrows.bent_right_arrow;fillColor=#AE4132;strokeColor=none;strokeWidth=2;direction=south" parent="1" vertex="1">
+          <mxGeometry x="1446.5" y="770.0000000000038" width="10.000000000000341" height="9.99999999999983" as="geometry" />
+        </mxCell>
+        <mxCell id="278" value="" style="shape=mxgraph.arrows.bent_right_arrow;fillColor=#AE4132;strokeColor=none;strokeWidth=2;direction=south" parent="1" vertex="1">
+          <mxGeometry x="1566.5000000000018" y="790.0000000000014" width="10.000000000000341" height="9.99999999999983" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="CqJgl8Kgr2ta24YKsHzs" name="Página-2">
+    <mxGraphModel dx="687" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vxXXV7OGQVcEE1DAPXl7-1" value="&lt;p style=&quot;margin: 0px 0px 10px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;In some cases, capturing different aspects of the intended product in more formal or structured representations is appropriate. For example, when developing safety-critical devices, the functionality, user interface, and interaction of the system need to be specified unambiguously and precisely. Sapna Jaidka et&amp;nbsp;al. (2017) suggest using the Z formal notation (a mathematically based specification language) and petri nets (a notation for modeling distributed systems based on directed graphs) to model the interaction behavior of medical infusion pumps. Harold Thimbleby (2015) points out that using a formal expression of requirements for number entry user interfaces such as calculators, spreadsheets, and medical devices could avoid bugs and inconsistencies.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 10px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;However, two techniques that are commonly used to augment the basic requirements information and to bring requirements to life are personas and scenarios. Often used together, they complement each other in order to bring realistic detail that allows the developer to explore the user&#39;s current activities, future use of new products, and futuristic visions of new technologies. They can also guide development throughout the product lifecycle.&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" width="560" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="VXZt_XnMn8oMH1LyI20P-2" value="&lt;h3 style=&quot;margin: 10px 0px; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; line-height: 3.08rem; color: rgb(85, 85, 85); text-rendering: optimizelegibility; font-size: 1.85rem; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-weight: 700 !important;&quot;&gt;Personas&lt;/h3&gt;&lt;p style=&quot;margin: 0px 0px 10px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Personas (Cooper, 1999) are rich descriptions of typical users of the product under development on which the designers can focus and for which they can design products. They don&#39;t describe specific people, but rather they are realistic, and not idealized. Any one persona represents a synthesis of a number of real users who have been involved in data gathering, and it is based on a set of user profiles. Each persona is characterized by a unique set of goals relating to the particular product under development, rather than a job description or a simple demographic. This is because goals often differ among people within the same job role or the same demographic.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 10px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;In addition to their goals, a persona will include a description of the user&#39;s behavior, attitudes, activities, and environment. These items are all specified in some detail. For instance, instead of describing someone simply as a competent sailor, the persona includes that they have completed a Day Skipper qualification, have more than 100 hours of sailing experience in and around European waters, and get irritated by other sailors who don&#39;t follow the navigation rules. Each persona has a name, often a photograph, and some personal details such as what they do as a hobby. It is the addition of precise, credible details that helps designers to see the personas as real potential users, and hence as people for whom they can design.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 10px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;A product will usually require a small set of personas rather than just one. It may be helpful to choose a few, or maybe only one, primary personas who represent a large section of the intended user group. Personas are used widely, and they have proved to be a powerful way to communicate user characteristics and goals to designers and developers.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 10px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;A good persona helps the designer understand whether a particular design decision will help or hinder their users. To this end, a persona has two goals (Caddick and Cable, 2011):&lt;/p&gt;&lt;ul style=&quot;padding: 0px; margin: 0px 0px 10px 25px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;line-height: 20px;&quot;&gt;To help the designer make design decisions&lt;/li&gt;&lt;li style=&quot;line-height: 20px;&quot;&gt;To remind the team that real people will be using the product&lt;/li&gt;&lt;/ul&gt;&lt;p style=&quot;margin: 0px 0px 10px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;A good persona is one that supports the kind of reasoning that says, “What would Bill (persona 1) do in this situation with the product?” and “How would Clara (persona 2) respond if the product behaved this way?” But good personas can be challenging to develop. The kind of information they include needs to be pertinent to the product being developed. For example, personas for a shared travel organizer would focus on travel-related behavior and attitudes rather than the newspapers the personas read or where they buy their clothes. On the other hand, personas for a shopping center navigation system might consider these aspects.&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="220" width="560" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="VXZt_XnMn8oMH1LyI20P-3" value="&lt;h3 style=&quot;margin: 10px 0px; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; line-height: 3.08rem; color: rgb(85, 85, 85); text-rendering: optimizelegibility; font-size: 1.85rem; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-weight: 700 !important;&quot;&gt;Scenarios&lt;/h3&gt;&lt;p style=&quot;margin: 0px 0px 10px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;A scenario is an&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;i&gt;“informal narrative description”&lt;/i&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;(Carroll, 2000). It describes human activities or tasks in a story that allows exploration and discussion of contexts, needs, and requirements. It does not necessarily describe the use of software or other technological support used to achieve a goal. Using the vocabulary and phrasing of users means that scenarios can be understood by stakeholders, and they are able to participate fully in development.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 10px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Imagine that you have been asked to investigate how a design team working on a large building project shares information. This kind of team includes several roles, such as an architect, mechanical engineer, client, quantity surveyor, and electrical engineer. On arrival, you are greeted by Daniel, the architect, who starts by saying something like the following:&lt;/p&gt;&lt;div style=&quot;color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border: 2px solid rgb(222, 222, 222); background-color: skyblue; border-radius: 5px; padding: 10px; margin: 10px 0px;&quot;&gt;&lt;img src=&quot;https://iconarchive.com/download/i57291/iloveicons.ru/browser-girl/browser-girl-opera.ico&quot; alt=&quot;&quot; style=&quot;vertical-align: middle; border: 0px; float: left; max-width: 60px; width: 60px; margin-right: 20px; border-radius: 50%; background-color: whitesmoke; filter: invert(0);&quot;&gt;&lt;p style=&quot;margin: 0px 0px 10px;&quot;&gt;&lt;strong style=&quot;font-weight: 700;&quot;&gt;&lt;i&gt;Every member of the design team needs to understand the overall purpose, but we each take a different perspective on the design decisions that have to be made. For example, the quantity surveyor will keep an eye on how much things cost, the mechanical engineer will want to make sure that the design accounts for ventilation systems, and so on. When the architect presents a design concept, such as a spiral staircase, each of us will view that concept from our own discipline and assess whether it will work as envisioned in the given location. This means that we need to share information about the project goals, the reason for decisions, and the overall budget, as well as drawing on our own discipline expertise to advise the client on options and consequences.&lt;/i&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;p style=&quot;margin: 0px 0px 10px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Telling stories is a natural way for people to explain what they are doing, and stakeholders can easily relate to them. The focus of such stories is also naturally likely to be about what the users are trying to achieve, that is, their goals. Understanding why people do things as they do and what they are trying to achieve in the process focuses the study on human activity rather than interaction with technology. Starting with current behavior allows the designer to identify the stakeholders and artifacts involved in an activity. Repeated reference to a particular app, drawing, behavior, or location indicates that it is somehow central to the activity being performed and that it deserves close attention to uncover the role it plays. Understanding current behavior also allows the designer to explore the constraints, contexts, irritations, facilitators, and so on, under which people operate. For example, the next scenario reflects on the persona Ben and it complement each other to give a fuller picture of the activities related to a user such as Ben would engage.&lt;/p&gt;&lt;div style=&quot;color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border: 2px solid rgb(222, 222, 222); background-color: bisque; border-radius: 5px; padding: 10px; margin: 10px 0px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 10px;&quot;&gt;Ben is out with friends, catching up over a meal. A friend asks if he has ever made the dish they are eating. This reminds Ben that he has not cooked for a while.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 10px;&quot;&gt;Later in the week, Ben sees a TV programme on cooking and again he is reminded that he has not cooked for a while. Thus he decides to cook later that week. Ben goes online and Google&#39;s “mee soto”. He looks through the various sites for pictures that not only look good, but also have few steps and a short time to cook. He spends some time browsing through the sites for other ideas to use in the future.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 10px;&quot;&gt;Next day at work, he remembers to go to the supermarket on his way home. As he is only getting a few ingredients (for a simple recipe), he just remembers what he needs to get. He buys ingredients in whatever size is readily available and is not too concerned about the freshness. Whilst in the shop, he also makes some spontaneous purchases.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 10px;&quot;&gt;On the day he is cooking, Ben checks out a YouTube video on preparing chicken pieces. When he gets home he prints out a recipe and asks his mum for some last minute advice. He had asked her previously about a similar question, but was so long ago that he has forgotten her advice. His mum looks at the recipe and suggests some alterations to it and writes notes on the recipe.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 10px;&quot;&gt;Ben places the recipe near the stove and follows it closely in terms of steps (one process at a time, no preparation) though haphazardly gauges the amount of ingredients to put in. He tries to gauge one portion&#39;s worth of ingredients (the recipe is for 3 people), only using some of the chicken, so puts rest back in fridge (he thinks his mum might use it later). He will estimate the time the mee soto needs for cooking, tasting it when he thinks it is ready. He is initially worried about hot oil splashing on his face, so he is hesitant when handling the hot pan.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 10px;&quot;&gt;When ready, he serves the dish and finds out he has made a bit too much. Depending on how much leftover is available, he will either put it in the fridge for later or it will just be wasted.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 10px;&quot;&gt;Afterwards he loads up pictures of the dish on Facebook. He is greatly encouraged when people ‘like&#39; his link or leave a comment and it makes him feel good.&lt;/p&gt;&lt;/div&gt;&lt;p style=&quot;margin: 0px 0px 10px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;The previous scenario describes existing behavior, but scenarios can also be used to describe behavior with a potential new technology. For example, a scenario that might be generated by potential users of a new navigation app for a large shopping center is given here:&lt;/p&gt;&lt;div style=&quot;color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border: 2px solid rgb(222, 222, 222); background-color: bisque; border-radius: 5px; padding: 10px; margin: 10px 0px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 10px;&quot;&gt;&lt;strong style=&quot;font-weight: 700;&quot;&gt;&lt;i&gt;Charlie wants to take his elderly mother, Freia, to his favorite home products store, ComfortAtHome. He knows that the store has moved within the shopping center, but he doesn&#39;t know where. He also needs to find a route that is suitable for his mother who uses a walker but doesn&#39;t like elevators. He opens the navigation app on his smartphone and enters the name of the store in the search feature. Two different branches of the store are listed, and Charlie asks for directions to the one nearest to their current location. A map of the shopping center is displayed, showing their current location, the location of the nearest store, and the suggested route. This route, however, includes a series of steps that are unsuitable for his mother. So, he asks for an alternative route that uses only ramps, which the app displays. They set off, following the new route provided.&lt;/i&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;p style=&quot;margin: 0px 0px 10px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Note the following in this limited scenario: the provision of a search facility to find the store&#39;s location (but what if the user doesn&#39;t know the store name or wants to locate all home products shops), the facility to display a map, and the importance of different options for the navigation routes to accommodate different users. These are all indicators of potential design choices for the new system. The scenario also describes one use of the app—to find a route to the nearest branch of a specific store.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 10px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;During the requirements activity, scenarios emphasize the context, the usability and user experience goals, and the activities in which the user is engaged. Scenarios are often generated during workshop, interview, or brainstorming sessions to help explain or discuss some aspect of the user&#39;s goals. They capture only one perspective, perhaps a single use of the product, or one example of how a goal might be achieved.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 10px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Scenarios may be constructed as textual descriptions, like those shown previously, but they can also use audio or video. For example, Alen Keirnan et&amp;nbsp;al. (2015) used animated scenarios to present early user research findings about wearable emergency alarms for older people. They found that the animated scenarios helped participants to describe problems associated with the use of emergency alarm technology and to discuss and evaluate key emotions and themes (see the following videos).&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="609" width="560" height="1830" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Yd5Ds8xDyt9ZE2a9sEUn" name="Metaforas">
+    <mxGraphModel dx="756" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JHd76zeEmz-U5DrmhZWC-1" value="&lt;h3 style=&quot;margin: 10px 0px; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; line-height: 3.08rem; color: rgb(85, 85, 85); text-rendering: optimizelegibility; font-size: 1.85rem; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-weight: 700 !important;&quot;&gt;Interface Metaphors&lt;/h3&gt;&lt;p style=&quot;margin: 0px 0px 10px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Metaphors are considered to be a central component of a conceptual model. They provide a structure that is similar in some way to aspects of a familiar entity (or entities), but they also have their own behaviors and properties. More specifically, an interface metaphor is one that is instantiated in some way as part of the user interface, such as the desktop metaphor. Another well-known one is the search engine, originally coined in the early 1990s to refer to a software tool that indexed and retrieved files remotely from the Internet using various algorithms to match terms selected by the user. The metaphor invites comparisons between a mechanical engine, which has several working parts, and the everyday action of looking in different places to find something. The functions supported by a search engine also include other features besides those belonging to an engine that searches, such as listing and prioritizing the results of a search. It also does these actions in quite different ways from how a mechanical engine works or how a human being might search a library for books on a given topic. The similarities implied by the use of the term search engine, therefore, are at a general level. They are meant to conjure up the essence of the process of finding relevant information, enabling the user to link these to less familiar aspects of the functionality provided.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 10px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Tremendous commercial successes in computing have arisen directly from a judicious choice of metaphor. The Xerox Alto and Star were the first workstations based on the metaphor of the office desktop. The majority of the management tasks on a standard workstation have to do with file manipulation. Linking the set of tasks associated with file manipulation to the filing tasks in a typical office environment makes the actual computerized tasks easier to understand at first. The success of the desktop metaphor is unquestionable. Another good example in the personal computing domain is the widespread use of the spreadsheet metaphor for accounting and financial modeling.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 10px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Interface metaphors are intended to provide familiar entities that enable people readily to understand the underlying conceptual model and know what to do at the interface. However, they can also contravene people&#39;s expectations about how things should be, such as the recycle bin (trash can) that sits on the desktop. Logically and culturally (meaning, in the real world), it should be placed under the desk. But users would not have been able to see it because it would have been hidden by the desktop surface. So, it needed to go on the desktop. While some users found this irksome, most did not find it to be a problem. Once they understood why the recycle bin icon was on the desktop, they simply accepted it being there.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 10px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;An interface metaphor that has become popular in the last few years is the card. Many of the social media apps, such as Facebook, Twitter, and Pinterest, present their content on cards. Cards have a familiar form, having been around for a long time. Just think of how many kinds there are: playing cards, business cards, birthday cards, credit cards, and postcards to name a few. They have strong associations, providing an intuitive way of organizing limited content that is “card sized.” They can easily be flicked through, sorted, and themed. They structure content into meaningful chunks, similar to how paragraphs are used to chunk a set of related sentences into distinct sections (Babich, 2016). In the context of the smartphone interface, the Google Now card provides short snippets of useful information. This appears on and moves across the screen in the way people would expect a real card to do—in a lightweight, paper-based sort of way. The elements are also structured to appear as if they were on a card of a fixed size, rather than, say, in a scrolling web page (see next Figure).&lt;/p&gt;&lt;figure style=&quot;display: flex; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border: thin solid rgb(192, 192, 192); flex-flow: column; padding: 5px; max-width: 480px; margin: auto;&quot;&gt;&lt;img src=&quot;https://i1.wp.com/img.talkandroid.com/uploads/2015/04/googlenowupdate.jpg&quot; class=&quot;img-responsive&quot; style=&quot;vertical-align: middle; border: 0px; max-width: 100%; height: auto; width: auto; filter: invert(0);&quot;&gt;&lt;figcaption style=&quot;display: block; background-color: rgb(34, 34, 34); color: rgb(255, 255, 255); font: italic smaller sans-serif; padding: 3px; text-align: center;&quot;&gt;&lt;strong style=&quot;font-weight: 700;&quot;&gt;Google Now Card&lt;/strong&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;p style=&quot;margin: 0px 0px 10px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;In many cases, new interface metaphors rapidly become integrated into common parlance, as witnessed by the way people talk about them. For example, parents talk about how much screen time children are allowed each day in the same way they talk more generally about spending time. As such, the interface metaphors are no longer talked about as familiar terms to describe less familiar computer-based actions; they have become everyday terms in their own right. Moreover, it is hard not to use metaphorical terms when talking about technology use, as they have become so ingrained in the language that we use to express ourselves. Just ask yourself or someone else to describe Twitter and Facebook and how people use them. Then try doing it without using a single metaphor.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 10px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Albrecht Schmidt (2017) suggests a pair of glasses as a good metaphor for thinking about future technologies, helping us think more about how to amplify human cognition. Just as they are seen as an extension of ourselves that we are not aware of most of the time (except when they steam up!), he asks can we design new technologies that enable users to do things without having to think about how to use them? He contrasts this “amplify” metaphor with the “tool” metaphor of a pair of binoculars that is used for a specific task—where someone consciously has to hold them up against their eyes while adjusting the lens to bring what they are looking at into focus. Current devices, like mobile phones, are designed more like binoculars, where people have to interact with them explicitly to perform tasks.&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="90" width="560" height="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="JHd76zeEmz-U5DrmhZWC-2" value="&lt;h3 style=&quot;margin: 10px 0px; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; line-height: 3.08rem; color: rgb(85, 85, 85); text-rendering: optimizelegibility; font-size: 1.85rem; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-weight: 700 !important;&quot;&gt;Disadvantages&lt;/h3&gt;&lt;p style=&quot;margin: 0px 0px 10px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Metaphors are beneficial but sometimes they get in the way of usefulness. Sometimes analogies are inadequate. For example, think in a typewriter as an analogy for a word processor. The analogy provides a preliminary understanding of a word processor; however the analogy is inadequate for promoting a full understanding of how the word processor works. In fact, the metaphor gets in the way of the user understanding the computer.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 10px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;A similar problem arises with most metaphors. Although the desktop metaphor is initially appealing, it falls short in the computing world because there are no office equivalents for ejecting a USB tick or printing a document. When designers try too hard to make the metaphor stick, the resulting system can be more confusing. Who thinks it is intuitive to drag the icon of a USB stick to the wastebasket in order to eject it from the system? Ordinarily, the wastebasket is used to dispose of things that we never want to use again, which is why it works for deleting files. We must accept that some of the tasks we perform with a computer do not have real-world equivalents, or if they do, we cannot expect a single metaphor to account for all of them.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 10px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Another problem with a metaphor is the cultural bias that it portrays. With the growing internationalization of software, it should not be assumed that a metaphor will apply across national boundaries. A meaningless metaphor will only add another layer of complexity between the user and the system.&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 10px; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;A more extreme example of metaphor occurs with virtual reality systems. In a VR system, the metaphor is not simply captured on a display screen. Rather, the user is also portrayed within the metaphor, literally creating an alternative, or virtual, reality. Any actions that the user performs are supposed to become more natural and so more movements of the user are interpreted, instead of just keypresses, button clicks and movements of an external pointing device. A VR system also needs to know the location and orientation of the user. Consequently, the user is often ‘rigged’ with special tracking devices so that the system can locate them and interpret their motion correctly.&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="110" width="560" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="JHd76zeEmz-U5DrmhZWC-3" value="&lt;h3 style=&quot;margin: 10px 0px; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; line-height: 3.08rem; color: rgb(85, 85, 85); text-rendering: optimizelegibility; font-size: 1.85rem; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-weight: 700 !important;&quot;&gt;Metaphor template&lt;/h3&gt;&lt;div class=&quot;box contents&quot; style=&quot;text-align: left; color: rgb(85, 85, 85); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div class=&quot;no-overflow&quot; style=&quot;overflow: auto; padding-bottom: 1px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 10px;&quot;&gt;A good metaphor from the user&#39;s point of view should have a lot of matches at the Task level and Appearance level, to help users instantiate and maintain the metaphor&lt;br&gt;You can ask:&amp;nbsp;Are there enough correspondences?&lt;br&gt;If there is more than one candidate metaphor, how do they compare in matches?&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 10px;&quot;&gt;The following template shows how tasks are explained through candidate metaphors. These tasks are from prior scenarios redacted from the problem being designed for.&lt;/p&gt;&lt;table border=&quot;3&quot; align=&quot;left&quot; cellpadding=&quot;5&quot; cellspacing=&quot;5&quot; style=&quot;max-width: 100%; background-color: transparent; border-collapse: collapse; border-spacing: 0px;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td colspan=&quot;3&quot; style=&quot;text-align: center;&quot;&gt;&lt;strong style=&quot;font-weight: 700;&quot;&gt;Real life&lt;/strong&gt;&lt;/td&gt;&lt;td colspan=&quot;3&quot; style=&quot;text-align: center;&quot;&gt;&lt;strong style=&quot;font-weight: 700;&quot;&gt;System metaphor&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;em style=&quot;font-style: italic;&quot;&gt;Scenarios&lt;/em&gt;&lt;/td&gt;&lt;td style=&quot;text-align: center;&quot;&gt;&lt;em style=&quot;font-style: italic;&quot;&gt;Tasks&lt;/em&gt;&lt;/td&gt;&lt;td style=&quot;text-align: center;&quot;&gt;&lt;em style=&quot;font-style: italic;&quot;&gt;Methods&lt;/em&gt;&lt;/td&gt;&lt;td style=&quot;text-align: center;&quot;&gt;&lt;em style=&quot;font-style: italic;&quot;&gt;Appearance&lt;/em&gt;&lt;/td&gt;&lt;td style=&quot;text-align: center;&quot;&gt;&lt;em style=&quot;font-style: italic;&quot;&gt;Tasks&lt;/em&gt;&lt;/td&gt;&lt;td style=&quot;text-align: center;&quot;&gt;&lt;em style=&quot;font-style: italic;&quot;&gt;Methods&lt;/em&gt;&lt;/td&gt;&lt;td style=&quot;text-align: center;&quot;&gt;&lt;em style=&quot;font-style: italic;&quot;&gt;Appearance&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align: center;&quot;&gt;1&lt;/td&gt;&lt;td&gt;Remove document from a folder view&lt;/td&gt;&lt;td&gt;Open folder by pulling back folder cover&lt;/td&gt;&lt;td rowspan=&quot;2&quot;&gt;3D folder paper that unfolds&lt;/td&gt;&lt;td&gt;Remove file from a file directory to view&lt;/td&gt;&lt;td&gt;Open folder by double clicking folder icon&lt;/td&gt;&lt;td rowspan=&quot;2&quot;&gt;2D icon that expands to a 2D window&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;text-align: center;&quot;&gt;2&lt;/td&gt;&lt;td&gt;Organizes collections of documents in folders&lt;/td&gt;&lt;td&gt;Insert document by moving into folder&lt;/td&gt;&lt;td&gt;Organize collections of files in file directories&lt;/td&gt;&lt;td&gt;Drag files into Folder Window&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="620" width="560" height="460" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
